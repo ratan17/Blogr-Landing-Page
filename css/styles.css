@@ -242,7 +242,7 @@ section.section-4:nth-of-type(3){
 .section-4 .text{
   display: flex;
   flex-direction:column;
-  align-items: end;
+  align-items: flex-end;
   justify-content: center;
   font-family: 'Overpass', sans-serif;
   height: 100%;
