@@ -41,7 +41,7 @@ section.colored-section,header.colored-section, section.white-section:nth-of-typ
 /* header section / colored section */
 
 header{
-  width:100vw;
+  min-width:100vw;
   height: 650px;
   min-height: 90vh;
   border-radius: 0 0 0 100px;
@@ -311,7 +311,6 @@ section.section-4:nth-of-type(3){
   /* header section / colored section */
 
   header.colored-section{
-    width:98vw;
     height: auto;
     min-height: auto;
     background-image: url(../images/bg-pattern-intro.svg), linear-gradient(to right, var(--bg-gradient-cta-1), var(--bg-gradient-cta-2) );
