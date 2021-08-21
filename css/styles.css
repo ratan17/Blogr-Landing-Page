@@ -41,7 +41,7 @@ section.colored-section,header.colored-section, section.white-section:nth-of-typ
 /* header section / colored section */
 
 header{
-  min-width:100vw;
+  width:100vw;
   height: 650px;
   min-height: 90vh;
   border-radius: 0 0 0 100px;
